@@ -235,7 +235,11 @@ span{
         content: "Web Designer";
     }
     61%, 80%{
+<<<<<<< HEAD
         content: "Figma Designer";
+=======
+        content: "Figma designer";
+>>>>>>> 603c42a335db0b0250ad57be7b2a6ebdc8b4be29
     }
     81%, 100%{
         content: "Script Writer";
